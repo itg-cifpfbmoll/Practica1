@@ -7,12 +7,14 @@
 Al crear un código de bloque queda asi.
 ~~~
 ### Devall d'aquest tercer encabetzat crearem llistes.
-- Cosa de la llista numero 1
-- Cosa de la llista numero 2
-- Cosa de la llista numero 3
-- Cosa de la llista numero 999
+- Cosa de sa llista numero 1
+- Cosa de sa llista numero 2
+- Cosa de sa llista numero 3
+- Cosa de sa llista numero 999
 
-
+- Y aixo ara es part d'una llista ordenada
+    - Y aixo tambe forma part de sa llista
+        - Tambe
 
 
 
