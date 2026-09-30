@@ -16,8 +16,10 @@ Al crear un código de bloque queda asi.
 + Y aixo ara es part d'una llista ordenada
     + Y aixo tambe forma part de sa llista
         + Y aixo tambe
-[Aqui tenim yn enllaç a Github](https://github.com/)
 
+[Aqui tenim un enllaç a Github](https://github.com/)
+O un enllaç de google creat automaticament
+<>
 
 
 
