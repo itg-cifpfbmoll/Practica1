@@ -2,7 +2,7 @@
 **Aixo es un texte que utilitza paraules en negreta ben bonetes.**
 *Aunque tambe es poden utilitzar paraules en cursiva.*
 ~~Y si no tagrada alguna cosa que hagis escrit pero ets dona pena borrarla sempre pots posr-li una tarlla damunt d'ella.~~
-
+## Aquest es un segon encabetza mes petit, util per separar millor uns textes de altres.
 
 
 
