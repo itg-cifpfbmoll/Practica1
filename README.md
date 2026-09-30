@@ -13,8 +13,8 @@ Al crear un código de bloque queda asi.
 - Cosa de sa llista numero 999
 
 - Y aixo ara es part d'una llista ordenada
-    - Y aixo tambe forma part de sa llista
-        - Tambe
+- Y aixo tambe forma part de sa llista
+    - Tambe
 
 
 
