@@ -11,7 +11,7 @@ Al crear un código de bloque queda asi.
 - Cosa de sa llista numero 2
 - Cosa de sa llista numero 3
 - Cosa de sa llista numero 999
-
+**Ara farem una llista ordenada.**
 - Y aixo ara es part d'una llista ordenada
 - Y aixo tambe forma part de sa llista
     - Tambe
