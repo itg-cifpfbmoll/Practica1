@@ -1,4 +1,4 @@
-# Aquest es un arxiu README.md que utilitza elements principals de Markdown en VS Code 
+# Aquest es un arxiu README.md que utilitza elements principals de Markdown en VS Code.
 **Aixo es un texte que utilitza paraules en negreta ben bonetes.**
 *Aunque tambe es poden utilitzar paraules en cursiva.*
 ~~Y si no tagrada alguna cosa que hagis escrit pero ets dona pena borrarla sempre pots posr-li una tarlla damunt d'ella.~~
@@ -6,8 +6,11 @@
 ~~~
 Al crear un código de bloque queda asi.
 ~~~
-
-
+### Devall d'aquest tercer encabetzat crearem llistes.
+-Cosa de la llista numero 1
+-Cosa de la llista numero 2
+-Cosa de la llista numero 3
+-Cosa de la llista numero 999
 
 
 
