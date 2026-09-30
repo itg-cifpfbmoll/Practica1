@@ -7,10 +7,10 @@
 Al crear un código de bloque queda asi.
 ~~~
 ### Devall d'aquest tercer encabetzat crearem llistes.
--Cosa de la llista numero 1
--Cosa de la llista numero 2
--Cosa de la llista numero 3
--Cosa de la llista numero 999
+- Cosa de la llista numero 1
+- Cosa de la llista numero 2
+- Cosa de la llista numero 3
+- Cosa de la llista numero 999
 
 
 
