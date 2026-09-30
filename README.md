@@ -21,7 +21,7 @@ Al crear un código de bloque queda asi.
 O un enllaç de google creat automaticament
 <http://www.limni.net>
 
-
+![Y aqui abajo tenemos una imagen.](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FGitHub&ved=0CBcQjRxqFwoTCLij6ej_lpcDFQAAAAAdAAAAABA3&opi=89978449)
 
 
 
