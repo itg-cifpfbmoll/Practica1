@@ -1,7 +1,7 @@
 # Aquest es un arxiu README.md que utilitza elements principals de Markdown en VS Code 
 **Aixo es un texte que utilitza paraules en negreta ben bonetes.**
 *Aunque tambe es poden utilitzar paraules en cursiva.*
-~~Ratlla~~
+~~Y si no tagrada alguna cosa que hagis escrit pero ets dona pena borrarla sempre pots posr-li una tarlla damunt d'ella.~~
 
 
 
