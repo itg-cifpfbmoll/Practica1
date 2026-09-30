@@ -6,7 +6,7 @@
 ~~~
 Al crear un código de bloque queda asi.
 ~~~
-### Devall d'aquest tercer encabetzat crearem llistes.
+### Devall d'aquest tercer encabetzat crearem llistes y posarem enllaços e imatges.
 - Cosa de sa llista numero 1
 - Cosa de sa llista numero 2
 - Cosa de sa llista numero 3
@@ -15,8 +15,8 @@ Al crear un código de bloque queda asi.
 **Ara farem una llista ordenada.**
 + Y aixo ara es part d'una llista ordenada
     + Y aixo tambe forma part de sa llista
-
-
+        + Y aixo tambe
+[Aqui tenim yn enllaç a Github](https://github.com/)
 
 
 
